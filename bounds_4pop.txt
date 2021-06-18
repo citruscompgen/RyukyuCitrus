@@ -1,0 +1,14 @@
+#	ini	perturb	upper	lower	fixed
+nub	1	1	10	1e-2	none
+nuc	1	1	10	1e-2	none
+nu1	1	1	20	1e-2	none
+nu2	1	1	10	1e-2	none
+nu3	1	1	10	1e-2	none
+nu4	1	1	10	1e-2	none
+mb2	0	1	0	0	0
+mc3	0	1	0	0	0
+m13	0	1	0	0	0
+m14	0	1	0	0	0
+T2	1	1	10	1e-2	none
+T3	1	1	10	1e-2	none
+T4	1	1	10	1e-2	none
