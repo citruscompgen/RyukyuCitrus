@@ -1,0 +1,4 @@
+fs_infile= MPRS_4pop.folded  sample_sz=[4 4 4 4]  max_iter= 40   Model=MPRS_sym4m   BoundsInfo=bounds_4pop.txt
+Optimized log-likelihood:  -7928.0
+paarmeter names:   nu1B,nu1C,nu1F,nu2,nu3,nu4, Mb2,Mc3,M13,M14, T2,T3,T4
+parameter values:  0.318 0.359 0.172 0.305 0.117 0.213 0.    0.    0.    0.    0.382 0.096 0.138

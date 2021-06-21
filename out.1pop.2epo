@@ -1,0 +1,4 @@
+model:  two_epoch_nu_f (nu=Nb/Na   f=Tb/2Nb)
+Optimized_log-likelihood: -377.928
+model parameter names:   nu,f
+model parameter values:  0.5   2.661
